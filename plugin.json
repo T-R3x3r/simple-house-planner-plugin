@@ -8,7 +8,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Simple House Planner",
-        "shortDescription": "Design floor plans and houses in 2D and 3D",
+        "shortDescription": "Design floor plans in 2D & 3D",
         "longDescription": "Simple House Planner designs houses, apartments and rooms with you, to scale, and shows them beside the chat in 2D and 3D.\n\nDescribe the home you want, such as a three-bedroom farmhouse, a small cabin, an apartment layout or a new kitchen, and ChatGPT draws the floor plan floor by floor: walls, doors, windows, stairs, roofs, furniture, the garden and the site. The planner checks each step for what you would notice walking through it, such as furniture in the way through a door or a room no door reaches, and ChatGPT fixes it.\n\nThe editor opens beside the conversation with the same controls as the website. Move a wall, furnish a room or walk through the house in 3D by hand, and ChatGPT sees your change on its next turn. Your plans are stored in your account, so they also open at simplehouseplanner.com, where you can export them as PDF sheets to scale, DXF, DWG and IFC.\n\nAsk about a build and ChatGPT calculates it, without sign-in: how many stairs you need, square footage, flooring, paint, drywall, concrete, gravel, a deck, a fence, roofing, insulation, a ramp, window sizes and the bed, sofa, table or rug that fits a room.\n\nPlans are design aids and do not replace the work of an architect or a check against local building rules.",
         "developerName": "Simple House Planner",
         "category": "Creativity",
@@ -38,12 +38,6 @@
               "prompt": "Design a one-floor house of about 90 square meters with two bedrooms, an open kitchen and a gable roof, in Freiburg.",
               "tools_triggered": "create_project, open_editor, edit_project, search_furniture, describe_plan",
               "expected_behavior": "Creates a plan, opens the editor beside the chat, builds walls, rooms, doors, windows and a roof, reads the warnings, fixes them, and describes the finished rooms with their areas."
-            },
-            {
-              "description": "List and open a stored plan",
-              "prompt": "Which plans do I have? Open the family house.",
-              "tools_triggered": "list_projects, open_editor",
-              "expected_behavior": "Lists the sample plans of the test account by title and floors, and shows the family house in the editor."
             },
             {
               "description": "Change a plan and take it back",
