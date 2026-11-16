@@ -9,7 +9,10 @@
     "url": "https://simplehouseplanner.com/"
   },
   "homepage": "https://simplehouseplanner.com/claude/",
+  "documentationUrl": "https://simplehouseplanner.com/claude/",
+  "supportUrl": "https://simplehouseplanner.com/contact/",
   "privacyPolicyUrl": "https://simplehouseplanner.com/privacy/",
+  "termsOfServiceUrl": "https://simplehouseplanner.com/terms/",
   "license": "MIT",
   "keywords": [
     "floor plan",
@@ -22,5 +25,6 @@
     "garden design",
     "3D",
     "calculator"
-  ]
+  ],
+  "icon": "./assets/logo-tile.png"
 }

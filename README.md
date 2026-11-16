@@ -1,5 +1,7 @@
 # Simple House Planner
 
+![A furnished family house in the Simple House Planner editor, in 3D](media/editor.jpg)
+
 Design houses, apartments, offices and gardens with your assistant. Simple House Planner draws floor plans to scale, floor by floor, with walls, doors, windows, stairs, roofs, furniture, the garden and the site, and shows them in 2D and 3D. The planner checks each step for what you would notice walking through it, such as furniture in the way through a door, and the assistant fixes it.
 
 Your plans are stored in your Simple House Planner account. Open them at [simplehouseplanner.com](https://simplehouseplanner.com/) to change them by hand, and export them as PNG, SVG, PDF sheets to scale, DXF, DWG and IFC.
