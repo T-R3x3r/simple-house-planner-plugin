@@ -1,0 +1,26 @@
+{
+  "name": "simple-house-planner",
+  "displayName": "Simple House Planner",
+  "version": "1.1.0",
+  "description": "Design houses, floor plans, room layouts and gardens with Claude: to scale in 2D and 3D, with building calculators, stored in your Simple House Planner account and editable by hand.",
+  "author": {
+    "name": "Simple House Planner",
+    "email": "support@simplehouseplanner.com",
+    "url": "https://simplehouseplanner.com/"
+  },
+  "homepage": "https://simplehouseplanner.com/claude/",
+  "privacyPolicyUrl": "https://simplehouseplanner.com/privacy/",
+  "license": "MIT",
+  "keywords": [
+    "floor plan",
+    "house plan",
+    "house design",
+    "home design",
+    "room layout",
+    "interior design",
+    "architecture",
+    "garden design",
+    "3D",
+    "calculator"
+  ]
+}

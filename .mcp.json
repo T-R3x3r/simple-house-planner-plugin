@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "simple-house-planner": {
+      "type": "http",
+      "url": "https://simplehouseplanner.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "simple-house-planner",
+  "description": "The Simple House Planner plugin: floor plans to scale in 2D and 3D, designed with Claude.",
+  "owner": {
+    "name": "Simple House Planner",
+    "email": "support@simplehouseplanner.com"
+  },
+  "plugins": [
+    {
+      "name": "simple-house-planner",
+      "source": "./",
+      "description": "Floor plans to scale in 2D and 3D, designed with Claude and stored in your Simple House Planner account."
+    }
+  ]
+}
